@@ -1,5 +1,7 @@
 # Brainwave_Matrix_Intern
 
+# Task 1
+
 # 📊 Sales Dashboard – Power BI
 
 This Power BI dashboard was developed as part of a data visualization task assigned by **Brainwave Matrix Solutions**. The goal was to create an interactive and insightful dashboard to showcase sales performance using modern BI tools.
