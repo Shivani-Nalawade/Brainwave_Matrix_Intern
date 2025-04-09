@@ -1,6 +1,6 @@
 # Brainwave_Matrix_Intern
 
-# 📊 Sales Performance Dashboard – Power BI
+# 📊 Sales Dashboard – Power BI
 
 This Power BI dashboard was developed as part of a data visualization task assigned by **Brainwave Matrix Solutions**. The goal was to create an interactive and insightful dashboard to showcase sales performance using modern BI tools.
 
@@ -11,18 +11,20 @@ To analyze product sales and provide actionable insights through key performance
 
 ### 📈 Visualizations:
 - **Top 5 Products by Revenue**  
-  Bar chart highlighting the top-performing products based on total revenue.
-
 - **Sales by State**  
-  Interactive **map visualization** showing the distribution of sales across different U.S. states.
-
 - **Profit Margin by Category**  
-  Clustered bar chart comparing profit margins across product categories (Home, Apparel, Electronics).
-
 - **Customer Orders by City**  
-  Stacked column chart showing the count of orders segmented by category for each city.
+- **Revenue by Product Category**
+- **Revenue by City**
+- **Customer by distribution**
+- **Monthly Sales Trend**
 
 ### 📊 KPIs:
+- **Total Revenue** - 272K
+- **Total Profit** - 73.10K
+- **Total Orders** - 500
+- **Average Order Value** - 544.89
+- **Profit Margin** - 0.27
 - **Total Quantity Sold** – 500  
 - **Total Customers** – 100  
 - **Repeat Customer Rate** – 40%
